@@ -10,9 +10,10 @@ An interactive, responsive, and modern web-based Quiz application built with van
 
 | Start Screen | Quiz Screen |
 | :---: | :---: |
-| ![Start Screen](<img width="1920" height="1080" alt="Screenshot From 2026-11-11 11-04-06" src="https://github.com/user-attachments/assets/9e9a7619-6431-4bb7-aa9f-7748b3850fc3" />
-<img width="1920" height="1080" alt="Screenshot From 2026-11-11 11-11-58" src="https://github.com/user-attachments/assets/cf59309b-d441-4592-ac4a-58d7bbb850ab" />
-<img width="1920" height="1080" alt="Screenshot From 2026-11-11 11-12-15" src="https://github.com/user-attachments/assets/235dd571-8fd5-48fd-8501-c4fd527d7f45" /><img width="1920" height="1080" alt="Screenshot From 2026-11-11 11-12-20" src="https://github.com/user-attachments/assets/586906f8-bfd6-44af-a45b-942e2a5f675f" />
+| ![Start Screen](<img width="1920" height="930" alt="Screenshot From 2026-11-11 11-15-40" src="https://github.com/user-attachments/assets/692a4527-a252-4e1d-842f-d661bbe2a068" />
+<img width="1920" height="930" alt="Screenshot From 2026-11-11 11-15-28" src="https://github.com/user-attachments/assets/597ebd78-b50e-4b8f-b443-ec760d009cf1" />
+<img width="1920" height="930" alt="Screenshot From 2026-11-11 11-15-49" src="https://github.com/user-attachments/assets/48068f1b-3fbf-42cb-9472-adfce8f843f7" />
+
 ) *(Quiz Time!)* | *(Active Questions & Score)* |
 
 ---
